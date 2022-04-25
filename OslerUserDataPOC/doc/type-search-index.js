@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.osler.service","l":"DeviceUserManager"},{"p":"com.osler.startapp","l":"OslerUserDataPocApplication"},{"p":"com.osler.entity","l":"Status"},{"p":"com.osler.entity","l":"User"}];updateSearchResults();

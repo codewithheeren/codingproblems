@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.osler.entity"},{"l":"com.osler.service"},{"l":"com.osler.startapp"}];updateSearchResults();
